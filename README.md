@@ -15,6 +15,8 @@ Professional with 6+ years of experience in high-performance web systems and Saa
 
 - **Amanda AI (github.com/brenoads/amanda-ai-core):** An autonomous, 100% offline NLP virtual assistant engineered with Edge Computing principles. Features polyglot architecture (Python/PHP/C++) for zero-latency speech recognition, dynamic database retrieval, and local OS control with Privacy-by-Design.
 
+-  **Transparency Portal (Padre Marcos Municipal Legislative Branch):** Engineered and deployed the official transparency portal for the local legislative body. Focused on strict compliance with Brazilian legislative transparency laws, ensuring real-time data accessibility, high availability, and secure public information management for the municipal council.
+
 **Education & Qualifications:**
 - Post-graduate in Artificial Intelligence & Machine Learning
 - Post-graduate in Robotics Engineering
