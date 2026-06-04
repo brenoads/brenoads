@@ -13,6 +13,8 @@ Professional with 6+ years of experience in high-performance web systems and Saa
 **Featured Projects:**
 - **éFácil SaaS (efacil.cloud):** A high-performance gastronomic ERP ecosystem featuring real-time POS (Point of Sale) and KDS (Kitchen Display System). Architected for scalability, asynchronous financial integration (Mercado Pago), and high availability.
 
+- * **Amanda AI (github.com/brenoads/amanda-ai-core):** An autonomous, 100% offline NLP virtual assistant engineered with Edge Computing principles. Features polyglot architecture (Python/PHP/C++) for zero-latency speech recognition, dynamic database retrieval, and local OS control with Privacy-by-Design.
+
 **Education & Qualifications:**
 - Post-graduate in Artificial Intelligence & Machine Learning
 - Post-graduate in Robotics Engineering
